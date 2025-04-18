@@ -36,7 +36,7 @@ const Contact = () => {
           Accept: "application/json",
         },
         body: JSON.stringify({
-          access_key: "YOUR_WEB3FORMS_ACCESS_KEY", // Replace with your Web3Forms access key
+          access_key: "f00a841b-4162-4c84-b67a-d60fc3e93ea5", // Replace with your Web3Forms access key
           ...formData,
           subject: `New message from ${formData.name}`,
         }),
