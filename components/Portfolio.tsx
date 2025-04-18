@@ -15,7 +15,7 @@ const projects = [
     id: 2,
     title: "Movie Mood",
     description: "Movie Mood is a personalized movie recommendation platform that helps users discover films based on their selected mood and preferred genre.",
-    image: "/projects/introducing.jpg",
+    image: "/projects/movie mood.png",
   },
   {
     id: 3,
